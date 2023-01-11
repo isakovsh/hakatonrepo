@@ -1,2 +1,1 @@
-﻿# Doctor-patient system
-‣潈灳瑩汯�
+Urban.Tech 2022 hakatoni 
